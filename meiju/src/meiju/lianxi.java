@@ -1,7 +1,7 @@
 package meiju;
 
 import java.util.Arrays;
-//大博哥最帅
+//寒冰箭
 public class lianxi{
 
 	public static void main(String []args) {
