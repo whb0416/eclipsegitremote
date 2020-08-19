@@ -1,7 +1,7 @@
 package meiju;
 
 import java.util.Arrays;
-//法术能量之戒
+//法术能量之戒+寒冰箭
 public class lianxi{
 
 	public static void main(String []args) {
